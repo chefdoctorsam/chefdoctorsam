@@ -3853,7 +3853,7 @@ Version 1</Str>
 			<flags>4</flags>
 			<geom>2,381,850,143,2,381,850,143</geom>
 			<Str sr="arg0" ve="3">Shipt Shopper Number</Str>
-			<Str sr="arg1" ve="3">Shopper #1055254</Str>
+			<Str sr="arg1" ve="3">Shopper #nnnnnnn</Str>
 			<Int sr="arg2" val="36"/>
 			<Int sr="arg3" val="100"/>
 			<Str sr="arg4" ve="3">#000000</Str>
